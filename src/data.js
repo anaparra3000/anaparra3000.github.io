@@ -3,7 +3,7 @@ export const projects = [
         title: "egn3910: human-centered design within systems and society",
         subtitle: "react, figma",
         description:
-          "WIP: senior design project.",
+          "WIP: senior design research project.",
         image: "images/wipmeme.png",
         link: "#",
       },
