@@ -1,17 +1,17 @@
 export const projects = [
     {
       title: "picki",
-      subtitle: "React",
+      subtitle: "react",
       description:
-        "WIP: a simple react app using the yelp API to keep a better list of favorite restaurants, simply because i don't like the yelp app",
+        "WIP: a simple react app using the yelp API to keep a better list of favorite restaurants, simply because i don't like the yelp app.",
       image: "images/wipmeme.png",
       link: "#",
     },
     {
       title: "ann hackman",
-      subtitle: "Wordpress, Twig",
+      subtitle: "wordpress, timber, twig",
       description:
-        "freelance website i worked on alongside the head developer at handmade digital.",
+        "freelance website i worked on alongside the head developer and creative team at handmade digital.",
       image: "images/annhackman.png",
       link: "https://annhackman.com",
     },
