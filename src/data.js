@@ -3,9 +3,9 @@ export const projects = [
       title: "picki",
       subtitle: "React",
       description:
-        "WIP: a simple react app using the yelp API to keep a better list of favorite restaurants ",
+        "WIP: a simple react app using the yelp API to keep a better list of favorite restaurants, simply because i don't like the yelp app",
       image: "images/wipmeme.png",
-      link: "",
+      link: "#",
     },
     {
       title: "ann hackman",

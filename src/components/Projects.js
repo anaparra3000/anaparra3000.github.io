@@ -4,7 +4,7 @@ import { projects } from "../data";
 export default function Projects() {
   return (
     <section id="projects" className="text-gray-400 font-mono">
-      <div className="container px-5 py-10 mx-auto text-center lg:px-40">
+      <div className="container px-5 py-10 mx-auto text-center">
         <div className="flex flex-col w-full mb-20">
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-2 text-black items-start">
           🧠 projects 🧠 
@@ -16,7 +16,7 @@ export default function Projects() {
               href={project.link}
               key={project.image}
               className="sm:w-1/2 w-100 p-4">
-              <div className="flex relative">
+              <div className="flex relative h-100">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
