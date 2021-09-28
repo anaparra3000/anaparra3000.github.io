@@ -1,7 +1,7 @@
 export const projects = [
     {
       title: "Ann Hackman",
-      subtitle: "Wordpress",
+      subtitle: "Wordpress, Twig",
       description:
         "Freelance project I worked on alongside the Handmade Digital team.",
       image: "../public/images/annhackman.png",
