@@ -4,7 +4,7 @@ export const projects = [
       subtitle: "Wordpress",
       description:
         "Freelance project I worked on alongside the Handmade Digital team.",
-      image: "/public/images/annhackman.png",
+      image: "../public/images/annhackman.png",
       link: "https://annhackman.com",
     },
     {
