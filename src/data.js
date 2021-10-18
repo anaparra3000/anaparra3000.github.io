@@ -8,14 +8,6 @@ export const projects = [
         link: "#",
       },
     {
-      title: "picki",
-      subtitle: "react",
-      description:
-        "WIP: a simple react app using the yelp API to keep a better list of favorite restaurants, simply because i don't like the yelp app.",
-      image: "images/wipmeme.png",
-      link: "#",
-    },
-    {
       title: "ann hackman",
       subtitle: "wordpress, timber, twig",
       description:
@@ -27,7 +19,7 @@ export const projects = [
       title: "jeff bezos conquers the world",
       subtitle: "HTML, CSS, JavaScript",
       description:
-        "fun lil game i made with fellow classmates over at ironhack where jeff bezos shoots amazon prime boxes at his enemies, musk and zuckerberg.",
+        "fun lil game i made with fellow classmates over at ironhack, where jeff bezos shoots amazon prime boxes at his enemies, musk and zuckerberg.",
       image: "images/jeffbezoslizard.jpeg",
       link: "https://aparr075.github.io/GroupProject/",
     },

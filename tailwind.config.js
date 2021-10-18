@@ -3,6 +3,10 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      padding: {
+        '1/2': '50%',
+        full: '100%',
+      },
       keyframes: {
         roll: {
           '0%, 100%': { transform: 'translateX(0) rotate(0deg)' },
