@@ -9,4 +9,4 @@
 </ul>
 
 ## Link
-[https://www.aparr075.github.io](https://www.aparr075.github.io)
+[https://aparr075.github.io/](https://aparr075.github.io/)
